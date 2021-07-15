@@ -21,10 +21,11 @@ Copy the files to `<folder>`
 
 cd `<folder>`
 
-set FLASK_APP=student
-set FLASK_ENV=development
-set DEBUG=on
-lask run
+* crie a tabela com createdbtb
+* set FLASK_APP=student
+* set FLASK_ENV=development
+* set DEBUG=on
+* flask run
 
 -> browser
 
