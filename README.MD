@@ -2,7 +2,7 @@
 
 ## web-python
 
-Inserção no SQLite com frontend html + bootstrap + jinja e backend python + flask
+Inserção no SQLite com frontend html + bootstrap  + flask + jinja e backend python
 
 Desenvolvido com:
 
