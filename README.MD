@@ -2,7 +2,9 @@
 
 ## web-python
 
-Developed with:
+Inserção no SQLite com frontend html + bootstrap + jinja e backend python + flask
+
+Desenvolvido com:
 
 * python 3.9.6
 * html
@@ -13,13 +15,13 @@ Developed with:
 * jinja2 3.0.1
 * sqlite
 
-How run:
+Como usar:
 
-Copy the files to `<folder>`
+Copie os arquivos para `<pasta>`
 
 ->cmd
 
-cd `<folder>`
+cd `<pasta>`
 
 * crie a tabela com criadbtb
 * set FLASK_APP=student
