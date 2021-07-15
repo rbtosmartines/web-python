@@ -21,7 +21,7 @@ Copy the files to `<folder>`
 
 cd `<folder>`
 
-* crie a tabela com createdbtb
+* crie a tabela com criadbtb
 * set FLASK_APP=student
 * set FLASK_ENV=development
 * set DEBUG=on
